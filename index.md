@@ -20,6 +20,17 @@ assumed. Please note that, although the majority of the course will be useful fo
 science postgrads, there will be some subject-specific content, including an overview of
 key tools for astronomers.
 
+## Joining the course
+
+MSc students should enrol via the Univeristy of Nottingham
+[module enrolment form][MSc-enrolment], after discussing their options with their tutor.
+
+PhD students should enrol for the module via the
+[MPAGS module sign-up page][MPAGS-enrolment].
+
+Any others wishing to join should [email the convenor][SPB].
+
+
 ## Lecturer
 
 The course is taught by **Dr Steven Bamford**. Outside of teaching sessions he can be
@@ -147,13 +158,13 @@ If you intend to use your own computer, then, before the course begins, <strong>
 You should use Python 3.  While Python 2 is still available and in use, most projects
 have moved over to Python 3 by now. Note that Python 3 is not backward compatible with
 Python 2 due to a small number of significant changes, i.e. code that works with Python
-2 will not necessarily work with Python 3.  I will explain some of the differences
+2 will not necessarily work with Python 3.  Some of the differences will be explained
 during the course.
 
 
 ## Getting Python
 
-I <strong>highly</strong> recommended installing Python using the freely-available <a href="https://www.anaconda.com/download/" title="Anaconda" target="_blank">Anaconda</a> distribution.  This gives you the most convenient route to a standalone Python 3 installation with most (if not all) of the modules you need easily available.
+You are <strong>highly</strong> recommended to install Python using the freely-available <a href="https://www.anaconda.com/download/" title="Anaconda" target="_blank">Anaconda</a> distribution.  This gives you the most convenient route to a standalone Python 3 installation with most (if not all) of the modules you need easily available.
 
 If you are missing a Python module, you can usually get it with one of the following (in the order you should try them):
 
@@ -186,3 +197,5 @@ and academic use.
 [SPYDER]: https://www.spyder-ide.org
 [JUPYTER]: https://jupyter.org
 [MAP]: https://www.nottingham.ac.uk/sharedresources/documents/mapuniversitypark.pdf
+[MPAGS-enrolment]: https://warwick.ac.uk/fac/sci/physics/mpags/signup/
+[MSc-enrolment]: https://www.nottingham.ac.uk/studentservices/services/module-enrolment.aspx

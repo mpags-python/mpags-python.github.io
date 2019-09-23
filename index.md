@@ -22,7 +22,7 @@ key tools for astronomers.
 
 ## Joining the course
 
-MSc students should enrol via the Univeristy of Nottingham
+MSc students should enrol via the University of Nottingham
 [module enrolment form][MSc-enrolment], after discussing their options with their tutor.
 
 PhD students should enrol for the module via the
@@ -49,9 +49,8 @@ own laptops.
 
 The live-stream link for remote students will be made available in advance.  Note that
 all that is required is an internet connection and a web-browser -- we will not be
-using the usual MPAGS access node infrastructure. In order to recieve this link you must
-have either registered for the module via MPAGS or MLiS, or [emailed me][SPB] requesting
-to join the course.
+using the usual MPAGS access node infrastructure. In order to receive this link you must
+have enrolled on the course (in one of the ways described above).
 
 Each session will consist of a lecture, lasting up to one hour, followed -- after a short
 break -- by an exercise class for local students. Remote students may complete the
@@ -91,7 +90,7 @@ To qualify for MSc or MPAGS credits, in addition to attending the majority of le
 you will need to produce a Python program. Your program may address any scientific
 purpose you like, e.g. data analysis, simulation, modelling, experiment control,
 visualisation, etc.  Ideally the program will do something that is relevant for your
-research projects, particulalrly in the case of MPAGS students.
+research projects, particularly in the case of MPAGS students.
 
 In addition to producing the code itself, MSc students will also give a presentation on
 their ongoing development, and a short final report. Percentages below refer to mark

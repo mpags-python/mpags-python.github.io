@@ -76,6 +76,8 @@ the course progresses.
 
 Materials accompanying the course will appear here as the course progresses.
 
+For advance reference, [here are the slides used for last year's MPAGS course][SLIDES2008].
+
 ## Exercises
 
 Solutions to the exercises will appear here as the course progresses.
@@ -199,3 +201,4 @@ and academic use.
 [MAP]: https://www.nottingham.ac.uk/sharedresources/documents/mapuniversitypark.pdf
 [MPAGS-enrolment]: https://warwick.ac.uk/fac/sci/physics/mpags/signup/
 [MSc-enrolment]: https://www.nottingham.ac.uk/studentservices/services/module-enrolment.aspx
+[SLIDES2008]: slides2018

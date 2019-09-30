@@ -61,15 +61,17 @@ some scientific analysis of your choice.
 
 ## Topics
 
-A preliminary outline of the topics is given below. This may be slightly altered and expanded as
-the course progresses.
+A preliminary outline of the topics is given below. This may be slightly altered and
+expanded as the course progresses.
 
 * Session 1-2: Introduction to Python
-* Session 3: Numerical Python
-* Session 4: Plotting with Python
-* Session 5-6: Scientific Python
-* Session 7-8: Specialised Python 
-* Session 9-10: Extreme Python
+* Session 3: Staying organised
+* Session 4: Numerical Python
+* Session 5: Plotting with Python
+* Session 6-7: Scientific Python
+* Session 8: Data handling
+* Session 9: Robust, fast & friendly code
+* Session 10: Python for specialists
 
 ## Lecture materials
 

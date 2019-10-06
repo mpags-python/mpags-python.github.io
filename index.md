@@ -78,7 +78,7 @@ expanded as the course progresses.
 Materials accompanying the course will appear here as the course progresses.
 
 * Session 0 (MSc students only): [slides](assets/slides/2019/python2019_session_0.pdf)
-
+* Session 1: [slides](assets/slides/2019/python2019_session_1.pdf)
 
 For advance reference, [here are the slides used for last year's MPAGS course][SLIDES2008].
 

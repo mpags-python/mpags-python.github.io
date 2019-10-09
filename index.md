@@ -26,7 +26,8 @@ MSc students should enrol via the University of Nottingham
 [module enrolment form][MSc-enrolment], after discussing their options with their tutor.
 
 PhD students should enrol for the module via the
-[MPAGS module sign-up page][MPAGS-enrolment].
+[MPAGS module sign-up page][MPAGS-enrolment]. If you are enrolling late, please also
+[email the convenor][SPB].
 
 Any others wishing to join should [email the convenor][SPB].
 
@@ -109,12 +110,13 @@ report or presentation are required.
 
 Your program should (as a rough guide)…
 
-* be written as an executable python (.py) file or Jupyter notebook (.ipynb)
+* be written as an executable module (.py file) or Jupyter notebook (.ipynb)
 * do something meaningful: analyse real data or perform a simulation
-* use at least two user functions
-* use at least one of the modules introduced in Sessions 5 onwards (excluding `matplotlib`)
-* produce at least one informative plot
-* comprise at least 50 lines of actual code (excluding comments and imports)
+* define at least two user functions (but typically more) 
+* make use of appropriate specialist modules
+* produce at least one informative plot 
+* comprise >~ 50 lines of actual code (excluding comments, imports and other ‘boilerplate’)
+* contain no more than 1000 lines in total (if you have written more, please isolate an individual element)
 
 You should submit the source code (.py/.ipynb file), together with pdf/png files of the output plot(s).
 
@@ -122,6 +124,10 @@ Your code should be submitted in the form of a GitHub repository containing the 
 code (.py/.ipynb file), together with pdf/png files of the output plot(s).  The
 repository should also contain a README file explaining the functionality of the code
 and explaining how it should be run.
+
+<!--
+<a href="https://classroom.github.com/a/K4tUSkL0">Click here to setup the GitHub repo for submitting your coursework code.</a>
+-->
 
 Further details regarding setting up your GitHub repository for submission will be given
 in the lectures.
@@ -151,11 +157,6 @@ Along with their final code, MSc students must additionally submit, a short (2--
 of A4) report *(20%)* describing the purpose of the code, any key design decisions, the outputs,
 and scope for improvements.
 
-<!--
-<a href="https://classroom.github.com/assignment-invitations/b410e0094b06d7be5c8054797a9b924b">Click here to setup a GitHub repo for submitting your coursework.</a>
-
-<a href="https://github.com/mpags-python/coursework/blob/master/README.md">The coursework requirements are described here.</a>
--->
 
 ## Preliminaries
 

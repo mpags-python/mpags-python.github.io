@@ -81,6 +81,7 @@ Materials accompanying the course will appear here as the course progresses.
 * Session 0 (MSc students only): [slides](assets/slides/2019/python2019_session_0.pdf)
 * Session 1: [slides](assets/slides/2019/python2019_session_1.pdf)
 * Session 2: [slides](assets/slides/2019/python2019_session_2.pdf)
+* Session 3: [slides](assets/slides/2019/python2019_session_3.pdf)
 
 For advance reference, [here are the slides used for last year's MPAGS course][SLIDES2008].
 
@@ -89,6 +90,7 @@ For advance reference, [here are the slides used for last year's MPAGS course][S
 Solutions to the exercises will appear here as the course progresses.
 
 * Session 1: [notebook](https://nbviewer.jupyter.org/github/mpags-python/exercises/blob/master/Exercises1.ipynb)
+* Session 2: [notebook](https://nbviewer.jupyter.org/github/mpags-python/exercises/blob/master/Exercises2.ipynb)
 
 The exercises and some examples shown in lectures can be <a
 href="https://github.com/mpags-python">found on Github</a>. You are strongly advised to avoid consulting the solutions until you have tried the problems yourself!

@@ -1,6 +1,4 @@
 
-[**Session 2 attendance form**](https://forms.office.com/Pages/ResponsePage.aspx?id=7qe9Z4D970GskTWEGCkKHlMauSc2cM9NlviB4UBUGJtURExFNlNZTU1TNFhXRkQ3SlFaRkUyS0s0UC4u)
-
 ## Course information
 
 This postgraduate course is designed to give a general introduction to the Python

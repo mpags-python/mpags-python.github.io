@@ -130,9 +130,7 @@ code (.py/.ipynb file), together with pdf/png files of the output plot(s).  The
 repository should also contain a README file explaining the functionality of the code
 and explaining how it should be run.
 
-<!--
 <a href="https://classroom.github.com/a/K4tUSkL0">Click here to setup the GitHub repo for submitting your coursework code.</a>
--->
 
 Further details regarding setting up your GitHub repository for submission will be given
 in the lectures.

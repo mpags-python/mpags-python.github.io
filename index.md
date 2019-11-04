@@ -1,5 +1,3 @@
-[**Session 4 attendance form**](https://forms.office.com/Pages/ResponsePage.aspx?id=7qe9Z4D970GskTWEGCkKHlMauSc2cM9NlviB4UBUGJtUNDNBMktYWFoyQTVUSkpLUDhWS0ZJWUZOUS4u)
-
 ## Course information
 
 This postgraduate course is designed to give a general introduction to the Python
@@ -84,6 +82,7 @@ Materials accompanying the course will appear here as the course progresses.
 * Session 2: [slides](assets/slides/2019/python2019_session_2.pdf)
 * Session 3: [slides](assets/slides/2019/python2019_session_3.pdf)
 * Session 4: [slides](assets/slides/2019/python2019_session_4.pdf)
+* Session 5: [slides](assets/slides/2019/python2019_session_5.pdf)
 
 For advance reference, [here are the slides used for last year's MPAGS course][SLIDES2008].
 
@@ -94,6 +93,7 @@ Solutions to the exercises will appear here as the course progresses.
 * Session 1: [notebook](https://nbviewer.jupyter.org/github/mpags-python/exercises/blob/master/Exercises1.ipynb)
 * Session 2: [notebook](https://nbviewer.jupyter.org/github/mpags-python/exercises/blob/master/Exercises2.ipynb)
 * Session 4: [notebook](https://nbviewer.jupyter.org/github/mpags-python/exercises/blob/master/Exercises4.ipynb)
+* Session 5: [notebook](https://nbviewer.jupyter.org/github/mpags-python/exercises/blob/master/Exercises5.ipynb)
 
 The exercises and some examples shown in lectures can be <a
 href="https://github.com/mpags-python">found on Github</a>. You are strongly advised to avoid consulting the solutions until you have tried the problems yourself!

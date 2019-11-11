@@ -83,6 +83,7 @@ Materials accompanying the course will appear here as the course progresses.
 * Session 3: [slides](assets/slides/2019/python2019_session_3.pdf)
 * Session 4: [slides](assets/slides/2019/python2019_session_4.pdf)
 * Session 5: [slides](assets/slides/2019/python2019_session_5.pdf)
+* Session 6: [slides](assets/slides/2019/python2019_session_6.pdf)
 
 For advance reference, [here are the slides used for last year's MPAGS course][SLIDES2008].
 

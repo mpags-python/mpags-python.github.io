@@ -1,3 +1,5 @@
+[**Session 7 attendance form**](https://forms.office.com/Pages/ResponsePage.aspx?id=7qe9Z4D970GskTWEGCkKHlMauSc2cM9NlviB4UBUGJtURDVBRE9CTkw5MjgzTDNURjAyT01aRExTUC4u)
+
 ## Course information
 
 This postgraduate course is designed to give a general introduction to the Python
@@ -66,12 +68,13 @@ expanded as the course progresses.
 
 * Session 1-2: Introduction to Python
 * Session 3: Staying organised
-* Session 4: Numerical Python
-* Session 5: Plotting with Python
-* Session 6-7: Scientific Python
-* Session 8: Data handling
-* Session 9: Robust, fast & friendly code
-* Session 10: Python for specialists
+* Session 4: Numerical Python and Plotting
+* Session 5: Scientific Python
+* Session 6: Data handling
+* Session 7: Python for specialists (astronomy and theory, but useful for all)
+* Session 8: **Presentations (MSc only)**
+* Session 9: Bayesian inference and deep learning in Python
+* Session 10: Robust, fast & friendly code
 
 ## Lecture materials
 
@@ -84,6 +87,7 @@ Materials accompanying the course will appear here as the course progresses.
 * Session 4: [slides](assets/slides/2019/python2019_session_4.pdf)
 * Session 5: [slides](assets/slides/2019/python2019_session_5.pdf)
 * Session 6: [slides](assets/slides/2019/python2019_session_6.pdf)
+* Session 7: [slides](assets/slides/2019/python2019_session_7.pdf)
 
 For advance reference, [here are the slides used for last year's MPAGS course][SLIDES2008].
 

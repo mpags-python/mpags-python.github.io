@@ -1,4 +1,17 @@
-[**Session 7 attendance form**](https://forms.office.com/Pages/ResponsePage.aspx?id=7qe9Z4D970GskTWEGCkKHlMauSc2cM9NlviB4UBUGJtURDVBRE9CTkw5MjgzTDNURjAyT01aRExTUC4u)
+## Student evaluation of module
+
+### Students at Nottingham
+
+* Please visit [BlueCastle](https://bluecastle-uk-surveys.nottingham.ac.uk) → SET/SEM Surveys
+* MSc students should see PHYS4038 module listed
+* PhD students will need to enter a "PIN number":  V6Q6S8
+* (Interpret "Moodle" as "course webpage")
+
+### PhD students at other institutions
+
+* Please use [this anonymous form](https://forms.office.com/Pages/ResponsePage.aspx?id=7qe9Z4D970GskTWEGCkKHlMauSc2cM9NlviB4UBUGJtUQ0wwNEQwMkxSM09FWE0wSVU5NFBHREREWC4u).
+
+
 
 ## Course information
 
@@ -88,6 +101,8 @@ Materials accompanying the course will appear here as the course progresses.
 * Session 5: [slides](assets/slides/2019/python2019_session_5.pdf)
 * Session 6: [slides](assets/slides/2019/python2019_session_6.pdf)
 * Session 7: [slides](assets/slides/2019/python2019_session_7.pdf)
+* Session 8: MSc presentations
+* Session 9: [slides](assets/slides/2019/python2019_session_9.pdf)
 
 For advance reference, [here are the slides used for last year's MPAGS course][SLIDES2008].
 
@@ -162,7 +177,7 @@ There will be three submission deadlines (at 3pm on the respective dates):
 
 ### Presentation
 
-MSc students must also deliver a 10 minute presentation *(20%)* during the workshop on 25 Nov,
+MSc students must also deliver a 5 minute presentation *(20%)* during the workshop on 25 Nov,
 describing their on-going development.
 
 ### Report

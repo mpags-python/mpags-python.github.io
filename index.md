@@ -12,7 +12,6 @@
 * Please use [this anonymous form](https://forms.office.com/Pages/ResponsePage.aspx?id=7qe9Z4D970GskTWEGCkKHlMauSc2cM9NlviB4UBUGJtUQ0wwNEQwMkxSM09FWE0wSVU5NFBHREREWC4u).
 
 
-
 ## Course information
 
 This postgraduate course is designed to give a general introduction to the Python
@@ -103,6 +102,7 @@ Materials accompanying the course will appear here as the course progresses.
 * Session 7: [slides](assets/slides/2019/python2019_session_7.pdf)
 * Session 8: MSc presentations
 * Session 9: [slides](assets/slides/2019/python2019_session_9.pdf)
+* Session 10: [slides](assets/slides/2019/python2019_session_10.pdf)
 
 For advance reference, [here are the slides used for last year's MPAGS course][SLIDES2008].
 

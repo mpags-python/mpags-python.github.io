@@ -1,17 +1,3 @@
-## Student evaluation of module
-
-### Students at Nottingham
-
-* Please visit [BlueCastle](https://bluecastle-uk-surveys.nottingham.ac.uk) → SET/SEM Surveys
-* MSc students should see PHYS4038 module listed
-* PhD students will need to enter a "PIN number":  V6Q6S8
-* (Interpret "Moodle" as "course webpage")
-
-### PhD students at other institutions
-
-* Please use [this anonymous form](https://forms.office.com/Pages/ResponsePage.aspx?id=7qe9Z4D970GskTWEGCkKHlMauSc2cM9NlviB4UBUGJtUQ0wwNEQwMkxSM09FWE0wSVU5NFBHREREWC4u).
-
-
 ## Course information
 
 This postgraduate course is designed to give a general introduction to the Python

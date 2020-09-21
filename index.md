@@ -9,9 +9,9 @@ programme at the University of Nottingham (for which it is PHYS4038) as well as
 first-year PhD students at the University of Nottingham and a number of other
 institutions, via the Midland Physics Alliance Graduate School ([MPAGS][MPAGS]
 [AS1][AS1]). Others may be able to join, on request, both for credits or on a more
-informal (unassessed) basis. Teaching sessions will be delivered to students at remote
-institutions via online live-stream. Recordings and materials will also be available for
-asynchronous learning.
+informal (unassessed) basis. Teaching content will be primarily delivered in an
+asynchronous manner, through recorded video and independent exercises. There
+will also be some synchronous sessions providing an opportunity for questions and discussion.
 
 As students taking this module are expected to hold an undergraduate degree in a science
 subject, a limited level of prior programming experience (in any language) is
@@ -33,35 +33,25 @@ Any others wishing to join should [email the convenor][SPB].
 
 ## Lecturer
 
-The course is taught by **Dr Steven Bamford**. Outside of teaching sessions he can be
-contacted via [email][SPB], or at his office: A112b in the CAPT building (#25 on the
-[campus map][MAP]).
+The course is taught by **Dr Steven Bamford**. Outside of synchronous teaching sessions he can be
+contacted via [email][SPB].
+
 
 ## Timetable and format
 
-Teaching sessions will held each **Monday at 1pm**.  The main course starts on **7th October
-2019** and runs for ten weeks (ending 9th December).
-Preceding this there is a MLiS-only introductory session on Monday 30th September.
+The main course starts on **5th October 2020** and runs for ten weeks (ending 16th December).
+Preceding this there is a MLiS-only introductory session on Friday 2nd October.
 
-For Nottingham students the course will be delivered face-to-face, in room A13 in the
-George Green library. Students may use the desktop computers in the room, or bring their
-own laptops.
-
-The live-stream link for remote students will be made available in advance.  Note that
-all that is required is an internet connection and a web-browser -- we will not be
-using the usual MPAGS access node infrastructure. In order to receive this link you must
-have enrolled on the course (in one of the ways described above).
-
-Each session will consist of a lecture, lasting up to one hour, followed -- after a short
-break -- by an exercise class for local students. Remote students may complete the
-exercises in their own time.
+The course will be delivered in the form of weekly pre-recorded videos, for you to watch in your
+own time. A link to access these videos will be emailed to registered students. If you are
+registered, but don't recieve a link by the start of the course, please [get in touch][SPB].
 
 The course will be assessed by the development of a complete Python program performing
-some scientific analysis of your choice.
+some scientific analysis of your choice (details below).
 
 ## Topics
 
-A preliminary outline of the topics is given below. This may be slightly altered and
+An outline of the topics is given below. This may be slightly altered and
 expanded as the course progresses.
 
 * Session 1-2: Introduction to Python
@@ -78,36 +68,20 @@ expanded as the course progresses.
 
 Materials accompanying the course will appear here as the course progresses.
 
-* Session 0 (MSc students only): [slides](assets/slides/2019/python2019_session_0.pdf)
-* Session 1: [slides](assets/slides/2019/python2019_session_1.pdf)
-* Session 2: [slides](assets/slides/2019/python2019_session_2.pdf)
-* Session 3: [slides](assets/slides/2019/python2019_session_3.pdf)
-* Session 4: [slides](assets/slides/2019/python2019_session_4.pdf)
-* Session 5: [slides](assets/slides/2019/python2019_session_5.pdf)
-* Session 6: [slides](assets/slides/2019/python2019_session_6.pdf)
-* Session 7: [slides](assets/slides/2019/python2019_session_7.pdf)
-* Session 8: MSc presentations
-* Session 9: [slides](assets/slides/2019/python2019_session_9.pdf)
-* Session 10: [slides](assets/slides/2019/python2019_session_10.pdf)
 
-For advance reference, [here are the slides used for last year's MPAGS course][SLIDES2008].
+For advance reference, [here are the slides used for last year's MPAGS course][SLIDES2019].
 
 ## Exercises
 
 Solutions to the exercises will appear here as the course progresses.
-
-* Session 1: [notebook](https://nbviewer.jupyter.org/github/mpags-python/exercises/blob/master/Exercises1.ipynb)
-* Session 2: [notebook](https://nbviewer.jupyter.org/github/mpags-python/exercises/blob/master/Exercises2.ipynb)
-* Session 4: [notebook](https://nbviewer.jupyter.org/github/mpags-python/exercises/blob/master/Exercises4.ipynb)
-* Session 5: [notebook](https://nbviewer.jupyter.org/github/mpags-python/exercises/blob/master/Exercises5.ipynb)
 
 The exercises and some examples shown in lectures can be <a
 href="https://github.com/mpags-python">found on Github</a>. You are strongly advised to avoid consulting the solutions until you have tried the problems yourself!
 
 ## Assessment
 
-To qualify for MSc or MPAGS credits, in addition to attending the majority of lectures
-you will need to produce a Python program. Your program may address any scientific
+To qualify for MSc or MPAGS credits, you will need to produce a Python program.
+Your program may address any scientific
 purpose you like, e.g. data analysis, simulation, modelling, experiment control,
 visualisation, etc.  Ideally the program will do something that is relevant for your
 research projects, particularly in the case of MPAGS students.
@@ -116,7 +90,7 @@ In addition to producing the code itself, MSc students will also give a presenta
 their ongoing development, and a short final report. Percentages below refer to mark
 weightings for students on MSc programmes.
 
-MPAGS credits are awarded for reasonable attendance and an acceptable final code
+MPAGS credits are awarded for reasonable engagement and an acceptable final code
 submission; intermediate submissions for feedback are encouraged, but optional. No
 report or presentation are required.
 
@@ -139,7 +113,7 @@ code (.py/.ipynb file), together with pdf/png files of the output plot(s).  The
 repository should also contain a README file explaining the functionality of the code
 and explaining how it should be run.
 
-<a href="https://classroom.github.com/a/K4tUSkL0">Click here to setup the GitHub repo for submitting your coursework code.</a>
+<a href="https://classroom.github.com/a/TMfrpJKC">Click here to setup the GitHub repo for submitting your coursework code.</a>
 
 To indicate that you have submitted your code for marking and feedback, create a branch
 named `sub1`, `sub2` or `sub3` as appropriate for the submission stage.
@@ -163,19 +137,19 @@ There will be three submission deadlines (at 3pm on the respective dates):
 
 ### Presentation
 
-MSc students must also deliver a 5 minute presentation *(20%)* during the workshop on 25 Nov,
+MSc students must also deliver a 5 minute presentation *(20%)* during the workshop on 27 Nov,
 describing their on-going development.
 
 ### Report
 
-Along with their final code, MSc students must additionally submit, a short (2--3 sides
+Along with their final code, MSc students must additionally submit, a short (~3 sides
 of A4) report *(20%)* describing the purpose of the code, any key design decisions, the outputs,
 and scope for improvements.
 
 
 ## Preliminaries
 
-If you intend to use your own computer, then, before the course begins, <strong>you should ensure that you have working Python interpreter available, ideally the Anaconda distribution</strong> (see below). For this course you are strongly recommended to use a recent version (3.4+).  Linux and OSX already have Python installed, but you are not recommended to use them!  Instead, install a version of Python specifically for your research, as described below. If you have any difficulties installing and running Python, please ask for help during – or shortly after – the first session.
+If you intend to use your own computer, then, before the course begins, <strong>you should ensure that you have working Python interpreter available, ideally the Anaconda distribution</strong> (see below). For this course you are strongly recommended to use a recent version (3.4+).  Linux and OSX already have Python installed, but you are not recommended to use them!  Instead, install a version of Python specifically for your research, as described below. If you have any difficulties installing and running Python, please ask for help in a synchronous session or [email][SPB] to arrange a meeting.
 
 You should use Python 3.  While Python 2 is still available and in use, most projects
 have moved over to Python 3 by now. Note that Python 3 is not backward compatible with
@@ -202,13 +176,7 @@ manner, is just asking for trouble.
 
 While you can write Python in any text editor, you should choose one with support for
 Python code, i.e. providing automatic formatting, code highlighting, and ideally integrated
-documentation. If you're old-school, Emacs and Vim are good choices. More modern options include:
-* [`Spyder`][SPYDER] is an integrated scientific development environment (IDE), which comes
-ready-installed with Anaconda.
-* [`PyCharm`][PYCHARM] is an excellent Python-specific editor and IDE. It is free for educational
-and academic use.
-* [`Jupyter`][JUPYTER] provides in-browser notebooks, which are very good for interactive
-  analysis use, or early stages of code development.
+documentation. We'll cover some options at the start of the course.
 
 
 [MLiS]: https://www.nottingham.ac.uk/pgstudy/courses/physics-and-astronomy/machine-learning-in-science-msc.aspx
@@ -221,4 +189,4 @@ and academic use.
 [MAP]: https://www.nottingham.ac.uk/sharedresources/documents/mapuniversitypark.pdf
 [MPAGS-enrolment]: https://warwick.ac.uk/fac/sci/physics/mpags/signup/
 [MSc-enrolment]: https://www.nottingham.ac.uk/studentservices/services/module-enrolment.aspx
-[SLIDES2008]: slides2018
+[SLIDES2019]: slides2019

@@ -189,4 +189,4 @@ documentation. We'll cover some options at the start of the course.
 [MAP]: https://www.nottingham.ac.uk/sharedresources/documents/mapuniversitypark.pdf
 [MPAGS-enrolment]: https://warwick.ac.uk/fac/sci/physics/mpags/signup/
 [MSc-enrolment]: https://www.nottingham.ac.uk/studentservices/services/module-enrolment.aspx
-[SLIDES2019]: slides/2019
+[SLIDES2019]: slides2019

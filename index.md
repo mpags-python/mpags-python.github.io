@@ -31,10 +31,12 @@ PhD students should enrol for the module via the
 Any others wishing to join should [email the convenor][SPB].
 
 
-## Lecturer
+## Lecturer contact
 
 The course is taught by **Dr Steven Bamford**. Outside of synchronous teaching sessions he can be
 contacted via [email][SPB].
+
+Questions can also be asked via a Slack channel. Students will be added to this after enrolment.
 
 
 ## Timetable and format

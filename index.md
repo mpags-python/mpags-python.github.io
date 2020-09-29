@@ -45,11 +45,18 @@ The main course starts on **5th October 2020** and runs for ten weeks (ending 16
 Preceding this there is a MLiS-only introductory session on Friday 2nd October.
 
 The course will be delivered in the form of weekly pre-recorded videos, for you to watch in your
-own time. A link to access these videos will be emailed to registered students. If you are
-registered, but don't recieve a link by the start of the course, please [get in touch][SPB].
+own time. All enrolled students will be added to a Slack channel and links to access these videos
+will be posted in that channel.
+
+If you have registered, but don't receive a link to join the Slack channel by the start of the course,
+please [get in touch][SPB].
 
 The course will be assessed by the development of a complete Python program performing
 some scientific analysis of your choice (details below).
+
+## Introduction
+
+If you are intending to take this course, please watch [this introductory video][introvid].
 
 ## Topics
 
@@ -192,3 +199,4 @@ documentation. We'll cover some options at the start of the course.
 [MPAGS-enrolment]: https://warwick.ac.uk/fac/sci/physics/mpags/signup/
 [MSc-enrolment]: https://www.nottingham.ac.uk/studentservices/services/module-enrolment.aspx
 [SLIDES2019]: slides2019
+[introvid]: https://mediaspace.nottingham.ac.uk/media/Scientific+Programming+in+PythonA+MPAGS+introduction/1_gyzk1m63

@@ -122,7 +122,7 @@ code (.py/.ipynb file), together with pdf/png files of the output plot(s).  The
 repository should also contain a README file explaining the functionality of the code
 and explaining how it should be run.
 
-<a href="https://classroom.github.com/a/gJ_j25jJ">Click here to setup the GitHub repo for submitting your coursework code.</a>
+<a href="https://classroom.github.com/a/bsgUSS2H">Click here to setup the GitHub repo for submitting your coursework code.</a>
 
 To indicate that you have submitted your code for marking and feedback, create a branch
 named `sub1`, `sub2` or `sub3` as appropriate for the submission stage.

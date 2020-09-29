@@ -19,6 +19,10 @@ assumed. Please note that, although the majority of the course will be useful fo
 science postgrads, there will be some subject-specific content, including an overview of
 key tools for astronomers.
 
+## Introduction
+
+If you are intending to take this course, please watch [this introductory video][introvid].
+
 ## Joining the course
 
 MSc students should enrol via the University of Nottingham
@@ -53,10 +57,6 @@ please [get in touch][SPB].
 
 The course will be assessed by the development of a complete Python program performing
 some scientific analysis of your choice (details below).
-
-## Introduction
-
-If you are intending to take this course, please watch [this introductory video][introvid].
 
 ## Topics
 

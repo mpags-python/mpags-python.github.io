@@ -73,10 +73,13 @@ expanded as the course progresses.
 * Session 9: Bayesian inference and deep learning in Python
 * Session 10: Robust, fast & friendly code
 
-## Lecture materials
+## Lecture slides
 
-Materials accompanying the course will appear here as the course progresses.
+Slides accompanying each session will appear here as the course progresses.
 
+* [MLiS intro slides](assets/slides/2020/Python-MLiS-intro.pdf)
+* [MPAGS intro slides](assets/slides/2020/Python-MPAGS-intro.pdf)
+* [Session 1 slides](assets/slides/2020/Python-1.pdf)
 
 For advance reference, [here are the slides used for last year's MPAGS course][SLIDES2019].
 

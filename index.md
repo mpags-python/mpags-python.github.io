@@ -81,14 +81,22 @@ Slides accompanying each session will appear here as the course progresses.
 * [MPAGS intro slides](assets/slides/2020/Python-MPAGS-intro.pdf)
 * [Session 1 slides](assets/slides/2020/Python-1.pdf)
 
+Some examples given in the lectures can be found as Jupter notebooks <a
+href="https://github.com/mpags-python/examples"> on
+GitHub</a>.
+
 For advance reference, [here are the slides used for last year's MPAGS course][SLIDES2019].
 
 ## Exercises
 
-Solutions to the exercises will appear here as the course progresses.
+Suggested exercises will appear here as the course progresses. 
 
-The exercises and some examples shown in lectures can be <a
-href="https://github.com/mpags-python">found on Github</a>. You are strongly advised to avoid consulting the solutions until you have tried the problems yourself!
+* [Session 1 exercises](exercises1)
+
+The solutions to these exercises can be <a
+href="https://github.com/mpags-python/exercises">found on
+GitHub</a>. You are strongly advised to avoid consulting the solutions
+until you have tried the problems yourself!
 
 ## Assessment
 

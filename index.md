@@ -134,17 +134,17 @@ Further details regarding setting up your GitHub repository for submission will 
 in the lectures.
 
 There will be three submission deadlines (at 3pm on the respective dates):
-* initial work submitted by **1 Nov** *(5%)*
+* initial work submitted by **28 Oct** *(5%)*
   * a README describing what you intend your code to do and a rough outline of the code
   (classes, functions, snippets, comments, pseudocode)
   * *you will receive feedback within about one week, with the aim of helping you make
     good choices regarding modules and the structure your code*
-* ongoing work submitted by **15 Nov**  *(15%)*
+* ongoing work submitted by **18 Nov**  *(15%)*
   * a roughly working version of your code -- it is intended that this be incomplete and/or
     contain bugs (but try to make it reasonably easy to understand!)
   * *you will receive feedback within about one week, with the aim of improving the
       structure, style and efficiency of your code*
-* final submission by **13 Dec** *(40%)*
+* final submission by **16 Dec** *(40%)*
     * your final working code
 
 ### Presentation

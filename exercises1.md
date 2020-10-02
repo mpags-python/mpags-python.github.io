@@ -8,3 +8,5 @@
 5. Write a function `f(x, n)`, where `x` is a list of numbers and `n`
    is a single number, which returns a list of the indices of `x`
    where the value is exactly divisible by `n`. Check it works!
+
+Here is some inline maths $x=y^2$ and here is some displayed, $$z=y^3$$.

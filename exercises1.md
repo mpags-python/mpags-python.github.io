@@ -1,5 +1,3 @@
-usemathjax: true
-
 ## Exercises for session 1
 
 1. Start your python interpreter and check the version.

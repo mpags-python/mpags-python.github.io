@@ -3,5 +3,3 @@ email: steven.bamford@nottingham.ac.uk
 description: PHYS4038/MLiS and AS1/MPAGS
 #url: "https://mpags-python.github.io"
 theme: jekyll-theme-hacker
-kramdown:
-  math_engine: mathjax

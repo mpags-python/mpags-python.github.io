@@ -80,6 +80,7 @@ Slides accompanying each session will appear here as the course progresses.
 * [MLiS intro slides](assets/slides/2020/Python-MLiS-intro.pdf)
 * [MPAGS intro slides](assets/slides/2020/Python-MPAGS-intro.pdf)
 * [Session 1 slides](assets/slides/2020/Python-1.pdf)
+* [Session 2 slides](assets/slides/2020/Python-2.pdf)
 
 Some examples given in the lectures can be found as Jupter notebooks <a
 href="https://github.com/mpags-python/examples"> on
@@ -92,6 +93,7 @@ For advance reference, [here are the slides used for last year's MPAGS course][S
 Suggested exercises will appear here as the course progresses. 
 
 * [Session 1 exercises](exercises1)
+* [Session 2 exercises](exercises2)
 
 The solutions to these exercises can be <a
 href="https://github.com/mpags-python/exercises">found on

@@ -81,6 +81,8 @@ Slides accompanying each session will appear here as the course progresses.
 * [MPAGS intro slides](assets/slides/2020/Python-MPAGS-intro.pdf)
 * [Session 1 slides](assets/slides/2020/Python-1.pdf)
 * [Session 2 slides](assets/slides/2020/Python-2.pdf)
+* [Session 3 slides](assets/slides/2020/Python-3.pdf)
+* [Session 4 slides](assets/slides/2020/Python-4.pdf)
 
 Some examples given in the lectures can be found as Jupter notebooks <a
 href="https://github.com/mpags-python/examples"> on
@@ -94,6 +96,8 @@ Suggested exercises will appear here as the course progresses.
 
 * [Session 1 exercises](exercises1)
 * [Session 2 exercises](exercises2)
+* Session 3 exercises were simply to get familiar with conda and git
+* [Session 4 exercises](exercises4)
 
 The solutions to these exercises can be <a
 href="https://github.com/mpags-python/exercises">found on

@@ -84,6 +84,7 @@ Slides accompanying each session will appear here as the course progresses.
 * [Session 3 slides](assets/slides/2020/Python-3.pdf)
 * [Session 4 slides](assets/slides/2020/Python-4.pdf)
 * [Session 5 slides](assets/slides/2020/Python-5.pdf)
+* [Session 6 slides](assets/slides/2020/Python-6.pdf)
 
 Some examples given in the lectures can be found as Jupter notebooks <a
 href="https://github.com/mpags-python/examples"> on
@@ -166,7 +167,7 @@ There will be three submission deadlines (at 3pm on the respective dates):
 ### Presentation
 
 MSc students must also deliver a 5 minute presentation *(20%)* during the workshop on 27 Nov,
-describing their on-going development.
+describing their on-going development. Details TBC.
 
 ### Report
 

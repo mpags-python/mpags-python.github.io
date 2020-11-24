@@ -86,6 +86,9 @@ Slides accompanying each session will appear here as the course progresses.
 * [Session 5 slides](assets/slides/2020/Python-5.pdf)
 * [Session 6 slides](assets/slides/2020/Python-6.pdf)
 * [Session 7 slides](assets/slides/2020/Python-7.pdf)
+* (No slides for session 8)
+* [Session 9 slides](assets/slides/2020/Python-9.pdf)
+* [Session 10 slides](assets/slides/2020/Python-10.pdf)
 
 Some examples given in the lectures can be found as Jupter notebooks <a
 href="https://github.com/mpags-python/examples"> on
